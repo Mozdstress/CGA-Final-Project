@@ -1,0 +1,20 @@
+# Ignore Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+Packages/
+
+# Ignore Visual Studio files
+*.csproj
+*.sln
+*.user
+
+# Ignore crash logs
+*.stackdump
+
+# Ignore temporary files
+.DS_Store
+Thumbs.db
